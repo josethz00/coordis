@@ -37,5 +37,8 @@
         "type": "git",
         "url": "git+https://github.com/josethz00/coordis.git"
     },
-    "description": "Coordis is a library to help you to deal with calculations involving geographical coordinates and conversion of units of measurement!"
+    "description": "Coordis is a library to help you to deal with calculations involving geographical coordinates and conversion of units of measurement!",
+    "publishConfig": {
+        "access": "public"
+    }
 }
